@@ -1,11 +1,6 @@
 # gulp-ssh
 
 ====
-SSH and SFTP tasks for gulp
-
-[![NPM version][npm-image]][npm-url]
-[![Downloads][downloads-image]][downloads-url]
-[![CI Status][ci-image]][ci-url]
 
 ## Install
 
