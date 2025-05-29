@@ -1,6 +1,6 @@
 {
-  "name": "gulp-sftp-ssh",
-  "version": "0.0.1",
+  "name": "gulp-ssh2-sftp",
+  "version": "1.0.0",
   "description": "Tareas SSH y SFTP para Gulp",
   "license": "MIT",
   "main": "core.js",
@@ -13,18 +13,18 @@
     "core.js"
   ],
   "author": {
-    "name": "suh4t",
+    "name": "suh4tdev",
     "email": "admin@suh4t.site",
-    "url": "https://github.com/"
+    "url": "https://github.com/suh4tdev"
   },
   "engines": {
     "node": ">=6"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "git://github.com/suh4tdev/gulp-ssh-sftp"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/suh4tdev/gulp-ssh-sftp",
   "keywords": ["ssh", "sftp"],
   "dependencies": {
     "ansicolors": "^0.3.2",
